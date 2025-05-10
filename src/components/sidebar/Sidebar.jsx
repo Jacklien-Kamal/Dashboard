@@ -43,6 +43,24 @@ export default function Sidebar() {
                 <Link to="/complaint" className="text-gray-200  flex items-center gap-2  hover:bg-purple-100 hover:bg-opacity-20 hover:rounded  hover:text-purple-300 p-2">
                   complaint
                 </Link>
+                <Link to="/acivities" className="text-gray-200 flex items-center gap-2  hover:bg-purple-100 hover:bg-opacity-20 hover:rounded  hover:text-purple-300  p-2">
+                  Activities
+                </Link>
+                <Link to="/ids" className="text-gray-200 flex items-center gap-2  hover:bg-purple-100 hover:bg-opacity-20 hover:rounded  hover:text-purple-300 p-2 ">
+                  Students IDs
+                </Link>
+                <Link to="/complaint" className="text-gray-200  flex items-center gap-2  hover:bg-purple-100 hover:bg-opacity-20 hover:rounded  hover:text-purple-300 p-2">
+                  complaint
+                </Link>
+                <Link to="/acivities" className="text-gray-200 flex items-center gap-2  hover:bg-purple-100 hover:bg-opacity-20 hover:rounded  hover:text-purple-300  p-2">
+                  Activities
+                </Link>
+                <Link to="/ids" className="text-gray-200 flex items-center gap-2  hover:bg-purple-100 hover:bg-opacity-20 hover:rounded  hover:text-purple-300 p-2 ">
+                  Students IDs
+                </Link>
+                <Link to="/complaint" className="text-gray-200  flex items-center gap-2  hover:bg-purple-100 hover:bg-opacity-20 hover:rounded  hover:text-purple-300 p-2">
+                  complaint
+                </Link>
               </div>
             </div>
           </li>
